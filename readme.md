@@ -38,6 +38,8 @@ A new style.css file located in the css folder was added. New classses and IDs w
     opacity: 1;
 }
 ```
+The background image was taken from the following: <br>
+"Petri dishes" by Carolina Biological Supply Company is licensed with CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/
 
 ### Add background color or a variety of compatible colors to the webpage.
 The style.css was further modified to change the background colors to the webpage. These are all shades of grey.
